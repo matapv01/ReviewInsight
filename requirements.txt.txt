@@ -1,0 +1,27 @@
+# Required libraries for Selenium and Web Scraping
+selenium==4.6.0
+webdriver-manager==3.8.3
+
+# Libraries for text processing and cleaning
+pandas==1.5.1
+re==2.2.1
+
+# Libraries for model and embedding generation
+sentence-transformers==2.2.0
+scikit-learn==1.0.2
+torch==1.12.1
+transformers==4.23.0
+
+# Libraries for data analysis and visualization
+matplotlib==3.6.2
+seaborn==0.11.2
+scipy==1.9.2
+
+# Libraries for PCA (Principal Component Analysis)
+scikit-learn==1.0.2
+
+# Libraries for Hugging Face Model
+huggingface_hub==0.10.1
+
+# Optional: Libraries for GPU support with PyTorch (if available)
+torchvision==0.13.1
