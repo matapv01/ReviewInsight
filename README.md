@@ -80,4 +80,8 @@ This project aims to collect, process, cluster, and summarize customer reviews o
 ## **Usage Example**
 To analyze reviews for a product, specify the Amazon product URL in the script, and the tool will automatically fetch, clean, cluster, summarize, and visualize the reviews.
 
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 ---
